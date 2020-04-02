@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## Desde Virginia Key: la vuelta a Bayfront Park
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,17 +9,17 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Desde Virginia Key: la vuelta a Bayfront Park
+**Autor(es)** Sergio García Rubio
 
-**Autor(es)** ______________
+**Resumen** : Desde finales de los 90, la ciudad de Miami acoge en pleno centro uno de los festivales más importantes de música electrónica del mundo.
+Coincidiendo con el final de la 'Winter Music Conference', el Ultra Music Festival se celebra en 'Bayfront Park' desde 2001, hasta que en su última edición fue trasladado a Virginia Key por discrepancias con las autoridades. Tras un año fuera de casa, el Ultra volvía a su lugar privilegiado, pero la crisis del coronavirus obligó a suspender el festival que se hubiese celebrado el 20, 21, 22 y 27, 28, 29 de marzo.
 
-**Resumen** : _________
+**logotipo** :  No realizado aún, pero relacionado con el propio logo del festival. 
 
-**logotipo** :  ________
+**Slogan** (frase motivadora/inspiradora): 
 
-**Slogan** (frase motivadora/inspiradora): ________
-
-**Hashtag**  ___
+**Hashtag** #UltraThread
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
@@ -30,7 +30,7 @@ Univesidad de Granada
 
 *  :octocat: (github url) 
 * Twitter 
-* ... 
+
 
 
 
@@ -53,11 +53,11 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Necesidad/oportunidad** 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** .... La cercanía al festival que no se pudo celebrar debido a la crisis del coronavirus, además de la vuelta al lugar original donde se celebra el festival. 
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  Aquellas personas usuarias de Twitter que estén interesadas en este tipo de música.  
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
+**Estilo de narración**  A través de un hilo en la red social de Twitter, que permite incluir vídeos e imágenes, así como algunos de los conciertos.   
 
 (ejemplos/alternativas) 
 * documental interactivo 
@@ -125,6 +125,7 @@ Referencias y recursos:
 * (Artículos ..  )
 * (Productos utilizados ) 
 * (Recursos tipo Imágenes, videos , etc.) 
+
 
 
 
