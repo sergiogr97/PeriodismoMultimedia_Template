@@ -1,7 +1,5 @@
 ## Desde Virginia Key: la vuelta a Bayfront Park
 
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
-
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
 Master de Nuevos medios interactivos y periodismo multimedia
 Facultad de Comunicación y Documentación
@@ -17,7 +15,7 @@ Coincidiendo con el final de la 'Winter Music Conference', el Ultra Music Festiv
 
 **logotipo** :  No realizado aún, pero relacionado con el propio logo del festival. 
 
-**Slogan** (frase motivadora/inspiradora): 
+**Slogan** : Conoce la historia completa del Ultra Music Festival.
 
 **Hashtag** #UltraThread
 
@@ -69,11 +67,8 @@ Reportaje.
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada.
 
-* redes sociales (...) 
+* redes sociales Twiter personal donde se puede encontrar el hilo: www.twitter.com/sergiogrubio
 
-* publicidad: banner (... ) 
-
-* ...
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
@@ -88,7 +83,7 @@ Tests con usuarios que proponen cambios y evalúan su experiencia.
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto. Se ha conseguido realizar íntegramente el hilo de Twitter, el objetivo principal, aunque no se ha podido realizar la página web. No obstante, el proyecto funciona mejor como hilo, pues a la hora de visualizar los vídeos y ver las imágenes, se hace d euna forma más amena que en un blog.  
+* Grado de consecución del proyecto. Se ha conseguido realizar íntegramente el hilo de Twitter, el objetivo principal, aunque no se ha podido realizar la página web (https://twitter.com/Sergiogrubio/status/1250729700248432646). No obstante, el proyecto funciona mejor como hilo, pues a la hora de visualizar los vídeos y ver las imágenes, se hace d euna forma más amena que en un blog.  
 * Problemas identificados. El número de caracteres de Twitter, que limita la información y obliga a condensar. Encontrar información de las primeras ediciones del festival también ha sido una tarea complicada. 
 * Propuestas de mejora. Se puede mejorar el aspceto audiovisual, como los vídeos incluidos. La calidad no es la óptima, para un formato móvil sí, pero para ordenador por ejemplo se nota esta deficiencia. 
 * Posible interés del proyecto. La cultura de la electrónica en Twitter es alta si sabes buscarla. Existen muchas cuentas especializadas en el tema así como perfiles de medios que se dedican a transmitir información de estos estilos. Esto iría más relacionado a realizarlo en formato reportaje. 
@@ -117,10 +112,8 @@ También otros documentales como 'Take One' o Leave the world behind', ambos sig
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
 * (...) 
 
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
+* Algunos artículos de revista rescatados de Google. 
+* Imágenes sacadas de Google Imágenes y vídeos de YouTube, que posteriormente han sido editados con Adpbe Premiere. 
 
 
 
