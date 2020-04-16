@@ -10,12 +10,11 @@ Univesidad de Granada
 **Titulo** : Desde Virginia Key: la vuelta a Bayfront Park
 **Autor(es)** Sergio García Rubio
 
-**Resumen** : Desde finales de los 90, la ciudad de Miami acoge en pleno centro uno de los festivales más importantes de música electrónica del mundo.
-Coincidiendo con el final de la 'Winter Music Conference', el Ultra Music Festival se celebra en 'Bayfront Park' desde 2001, hasta que en su última edición fue trasladado a Virginia Key por discrepancias con las autoridades. Tras un año fuera de casa, el Ultra volvía a su lugar privilegiado, pero la crisis del coronavirus obligó a suspender el festival que se hubiese celebrado el 20, 21, 22 y 27, 28, 29 de marzo.
+**Resumen** : La crisis del Coronavirus ha afectado duramente al panorama de la música y al de los festivales, muchos de ellos cancelados. La música electrónica, protagonista en algunos de los eventos más importantes del mundo, tiene una historia en gran parte desconocida por una la mayoría de la población. De esta manera, este proyecto busca aumentar estos conocimientos mientras se habla de la historia de los festivales más importantes de electrónica a nivel mundial. Así, se intenta conocer más este panorama musical a través de conciertos e imágenes que dejan constancia de este fenómeno mundial. 
 
 **logotipo** :  https://imgur.com/a/kBRHtRA
 
-**Slogan** : Conoce la historia completa del Ultra Music Festival.
+**Slogan** : Lo has escuchado, ¿pero sabes dónde comenzó?
 
 **Hashtag** #UltraThread
 
@@ -48,10 +47,10 @@ La inspiración al proyecto es propia, pues nace de una idea previa. Durante la 
 
 
 **Necesidad/oportunidad** 
-Durante los últimos años, la música electrónica se ha internacionalizado y se ha convertido en un fenómeno a nivel mundial. Nombres como David Guetta o Avicii no suenan extraños para aquellos que no escuchan estos estilos de música. La cancelación de los festivales más importantes puede generar un sentimiento de frustración para aquellos que han comprado su entrada, pero rememorar la historia del Ultra Music Festival de Miami sirve para conocer mejor su consolidación y viajar por todas las ediciones y sus conciertos más conocidos. Es decir, despejar la mente a través de la música, una de sus funciones principales. 
+Durante los últimos años, la música electrónica se ha internacionalizado y se ha convertido en un fenómeno a nivel mundial. Nombres como David Guetta o Avicii no suenan extraños para aquellos que no escuchan estos estilos de música. La cancelación de los festivales más importantes puede generar un sentimiento de frustración para aquellos que han comprado su entrada, pero rememorar la historia de estos festivales sirve para conocer mejor su consolidación y viajar por todas las ediciones y sus conciertos más conocidos. Es decir, despejar la mente a través de la música, una de sus funciones principales. 
 
 **Motivación de la propuesta** 
-La cercanía al festival que no se pudo celebrar debido a la crisis del coronavirus, además de la vuelta al lugar original donde se celebra el festival. 
+La cercanía en cuanto a fechas al festival Ultra Music Festival, que no se pudo celebrar debido a la crisis del coronavirus.
 
 **Personas/Usuarios**  
 Aquellas personas usuarias de Twitter que estén interesadas en este tipo de música. En twitter existe un gran número de cuentas destinadas a hablar de electrónica y festivales, por lo que está bastante arraigado en esta red social.
@@ -67,7 +66,7 @@ Algunas alternativas al hilo y al reportaje son la realización del documental o
 * Imagen visual. 
 
 El propio logo del Ultra Music Festival, descargado desde Google Images. 
-En el blog, se incluirá también el logo y se jugará con los propios colores característicos del festival: el negro, los morados y los azules. 
+En el blog, se incluirá también el logo y se jugará con los propios colores característicos del festival: el negro, los morados y los azules (al menos en la entrada destinada a este evento). 
 
 * Redes Sociales. 
 
@@ -89,7 +88,7 @@ Se ha conseguido realizar íntegramente el hilo de Twitter, el objetivo principa
 * Problemas identificados. 
 El número de caracteres de Twitter, que limita la información y obliga a condensar. Encontrar información de las primeras ediciones del festival también ha sido una tarea complicada. 
 * Propuestas de mejora. 
-Se puede mejorar el aspceto audiovisual, como los vídeos incluidos. La calidad no es la óptima, para un formato móvil sí, pero para ordenador por ejemplo se nota esta deficiencia. 
+Se puede mejorar el aspceto audiovisual, como los vídeos incluidos. La calidad no es la óptima, para un formato móvil sí, pero para ordenador por ejemplo se nota esta deficiencia. En la página web se pueden incluir sesiones de los conciertos, así como retransmisiones en directo pinchando las canciones que los usuarios han añadido en una lista de Spotify colaborativa sobre el género. 
 * Posible interés del proyecto. 
 La cultura de la electrónica en Twitter es alta si sabes buscarla. Existen muchas cuentas especializadas en el tema así como perfiles de medios que se dedican a transmitir información de estos estilos. Esto iría más relacionado a realizarlo en formato reportaje. 
 
