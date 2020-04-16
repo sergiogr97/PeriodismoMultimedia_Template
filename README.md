@@ -13,7 +13,7 @@ Univesidad de Granada
 **Resumen** : Desde finales de los 90, la ciudad de Miami acoge en pleno centro uno de los festivales más importantes de música electrónica del mundo.
 Coincidiendo con el final de la 'Winter Music Conference', el Ultra Music Festival se celebra en 'Bayfront Park' desde 2001, hasta que en su última edición fue trasladado a Virginia Key por discrepancias con las autoridades. Tras un año fuera de casa, el Ultra volvía a su lugar privilegiado, pero la crisis del coronavirus obligó a suspender el festival que se hubiese celebrado el 20, 21, 22 y 27, 28, 29 de marzo.
 
-**logotipo** :  https://i.imgur.com/BijUiMN.png 
+**logotipo** :  https://imgur.com/a/kBRHtRA
 
 **Slogan** : Conoce la historia completa del Ultra Music Festival.
 
