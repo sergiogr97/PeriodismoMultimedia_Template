@@ -63,11 +63,15 @@ Algunas alternativas al hilo y al reportaje son la realización del documental o
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada.
+* Imagen visual. 
 
-* redes sociales Twiter personal donde se puede encontrar el hilo: www.twitter.com/sergiogrubio
+El propio logo del Ultra Music Festival, descargado desde Google Images. 
+En el blog, se incluirá también el logo y se jugará con los propios colores característicos del festival: el negro, los morados y los azules. 
+
+* Redes Sociales. 
+
+Twiter personal donde se puede encontrar el hilo: www.twitter.com/sergiogrubio
 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
@@ -95,11 +99,6 @@ Referencias y recursos:
 La referencia principal ha sido el documental 'What we started', sobre los orígenes de la electrónica y las nuevas tendencias, donde también se habla del inicio del Ultra.
 
 También otros documentales como 'Take One' o Leave the world behind', ambos siguen la trayectoria de Swedish House Mafia. Además, 'True Stories', que habla sobre la vida del productor sueco Avicii. 
-
-(...)
-
-
-
 
 
 
